@@ -1,1 +1,1 @@
-# observer-assignment
+Observer pattern assignment - Bruno Miletić
